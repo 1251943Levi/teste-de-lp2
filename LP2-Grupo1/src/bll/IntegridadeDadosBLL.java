@@ -6,7 +6,7 @@ import utils.ExportadorCSV;
 /**
  * Camada de lógica para validações complexas de integridade que cruzam múltiplos ficheiros.
  */
-public class IntegridadeBLL {
+public class IntegridadeDadosBLL {
 
     /**
      * Valida se um curso pode receber mais uma UC (Limite de 5 por ano).
